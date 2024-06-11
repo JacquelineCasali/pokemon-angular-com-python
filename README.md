@@ -1,27 +1,49 @@
-# AngularBlog
+## Avaliação de Competências: Desenvolvimento de uma API Pokédex
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+### Objetivo
+Criar uma API em Python usando FastAPI para gerenciar uma Pokédex, que lista todos os Pokémon capturados com paginação. Além disso, desenvolver uma interface de usuário simples para a Pokédex usando React + Redux ou Angular como framework de escolha.
 
-## Development server
+# Projeto Usuário
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Esse projeto foi  desenvolvido em Angular 
+clone o repositório completo :
+ 
+ ## git clone
+https://github.com/JacquelineCasali/pokemon-angular-com-python.git
+# Requisitos e Linguagem Utilizada
 
-## Code scaffolding
+Python 3.8
+Django 4.2
+Angular 14
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Instalação
 
-## Build
+<!-- instale o pacote de desenvolvimento do python
+instale o Django
+Dentro do diretório do projeto, crie o seu ambiente virtual e ativá-lo:
+python -m venv venv
+para ativar entere na pasta venv\Scripts> .\activate
+npm install
+node
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+no chome instalar a extenção e ativar cors na maquina no link
+https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=pt -->
 
-## Running unit tests
+# Rodar o projeto
+<!-- 
+Rodar o banco de dados
+python manage.py runserver -->
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Rodar o projeto com angular
+Acessar o navegador no enderço que apareçe no terminal
+ng serve no navegador acesse
+http://localhost:4200/
 
-## Running end-to-end tests
+<!-- # Foto do projeto
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Lista de Usuários
+![2023-04-15_163917](https://user-images.githubusercontent.com/103325619/232250210-a6b0af2e-26de-4144-8fc6-f677b3ce90ec.png)
 
-## Further help
+<br> -->
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
